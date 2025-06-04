@@ -1,6 +1,6 @@
 # Space Shooter
 
-A modern space shooter game built with Flutter and Flame engine. Navigate through waves of enemies, collect power-ups, and compete for high scores in this action-packed arcade experience.
+The Space Shooter Game is a fast-paced, retro-style space combat game created using Flutter and the Flame game engine. It challenges players to navigate waves of enemies, collect game-altering power-ups, and survive increasingly difficult stages. Designed for both casual fun and serious highscore competition, it offers a polished experience across platforms.
 
 
 ## Features
@@ -158,7 +158,8 @@ Current Version: 1.0.0
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+<img width="158" alt="image" src="https://github.com/user-attachments/assets/2b1f23fd-97ec-4799-8c0a-3441fdff3772" />
+
 The main menu features a sleek, space-themed design with:
 - Animated title with gradient effect
 - Four main navigation buttons
@@ -166,7 +167,11 @@ The main menu features a sleek, space-themed design with:
 - Version display
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+
+<img width="171" alt="image" src="https://github.com/user-attachments/assets/12802777-3f37-41fa-9dad-97b38043f50e" />
+<img width="171" alt="image" src="https://github.com/user-attachments/assets/7393370d-4964-48fa-9f58-58de37e1204c" />
+<img width="171" alt="image" src="https://github.com/user-attachments/assets/acd9cc33-fc06-4ce6-84c8-7c9e4317f23e" />
+
 Active gameplay screen showing:
 - Player spaceship with particle effects
 - Enemy ships in formation
@@ -174,16 +179,39 @@ Active gameplay screen showing:
 - Score and lives HUD
 - Wave indicator
 
+### How To Play
+
+<img width="165" alt="image" src="https://github.com/user-attachments/assets/8bf99ccd-98c5-4799-a335-62d32af1885d" />
+
+Provides users with gameplay instructions. Players can control the spaceship using touch gestures, a mouse, or keyboard arrow keys, making the game accessible across multiple input devices. 
+
 ### Pause Menu
-![Pause Menu](screenshots/pause_menu.png)
+
+<img width="192" alt="image" src="https://github.com/user-attachments/assets/25b92ee4-94b4-4847-ae90-e4232fa539b0" />
+<img width="193" alt="image" src="https://github.com/user-attachments/assets/d310aca9-008d-4ae5-9678-089272fb96f0" />
+
 Comprehensive pause menu including:
 - Difficulty selector
 - Audio controls for music and SFX
 - Game controls guide
 - Resume/Restart/Home options
 
+### Achievement
+
+<img width="161" alt="image" src="https://github.com/user-attachments/assets/57ad852e-cfd4-42a8-9652-421e74682dbb" />
+
+Display achievement notifications when players reach specific milestones during gameplay: - 
+
+	First Blood: Score your first point
+	Wave Survivor: Reach wave 5
+	Power Player: Collect a power-up
+	Sharp Shooter: Achieve high accuracy
+	Untouchable: Survive without taking damage
+
+
 ### Game Over
-![Game Over](screenshots/game_over.png)
+<img width="161" alt="image" src="https://github.com/user-attachments/assets/5d6610a5-785e-4305-8be9-cfd7eeed460e" />
+
 End game screen featuring:
 - Final score display
 - High score comparison
@@ -191,7 +219,9 @@ End game screen featuring:
 - Play again option
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+<img width="153" alt="image" src="https://github.com/user-attachments/assets/6717ad5a-3c26-4821-b72d-81e705d96f81" />
+<img width="156" alt="image" src="https://github.com/user-attachments/assets/dac23c9d-730f-427c-ad31-d76ca7f22e22" />
+
 Top scores display with:
 - Player names and scores
 - Date/time of achievement
@@ -199,7 +229,9 @@ Top scores display with:
 - Scrollable list of entries
 
 ### Settings
-![Settings](screenshots/settings.png)
+<img width="171" alt="image" src="https://github.com/user-attachments/assets/226c4e13-1532-4659-88c8-7c45e8e0d335" />
+<img width="173" alt="image" src="https://github.com/user-attachments/assets/5c62aa9a-e10b-4a60-a647-0e63eb7ab583" />
+
 Game configuration panel with:
 - Audio toggles and volume controls
 - Score reset functionality
